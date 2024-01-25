@@ -12,7 +12,10 @@ Students taking the COMP4605 class do their course projects in groups of two. Th
    - Open the project in a Python environment.
    - Run the main script: python PartnerAssignmentTool.py
 2. **Load Preferences:**
-   - Upon startup, the program reads preferences data from a text file.
+   - Before running the tool, make sure to create a text file containing preferences data.
+   - The program expects the user to provide their own preferences file.
+   - Place your preferences file in the project directory.
+   - Upon startup, the program reads preferences data from the specified text file.
    - Message displayed: "Preferences Data Loaded."
 3. **Choose Optimizer:**
    - Select an optimizer: "Random," "Hill Climbing," "Simulated Annealing," or "Genetic."
