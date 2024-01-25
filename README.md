@@ -10,7 +10,7 @@ Students taking the COMP4605 class do their course projects in groups of two. Th
 
 1. **Run the Tool:**
    - Open the project in a Python environment.
-   - Run the main script: python main.py
+   - Run the main script: python PartnerAssignmentTool.py
 2. **Load Preferences:**
    - Upon startup, the program reads preferences data from a text file.
    - Message displayed: "Preferences Data Loaded."
